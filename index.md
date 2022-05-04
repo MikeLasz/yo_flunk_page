@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Yo Flunk! Bringt euer Flunkyball-Erlebnis auf ein neues Level...
+<-Logo->
 
-You can use the [editor on GitHub](https://github.com/MikeLasz/yo_flunk_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Yo Flunk!** ist die Android-App, wenn es um das Organisieren und Visualisieren von Flunkyball-Spielen innerhalb eines kompetetiven Umfelds geht. 
+Ihr gründet innerhalb eines Freundeskreises eine eigene Liga, welche euch einen Überblick über alle Matches verschafft. Das weckt bei dem Einen oder Anderen den kompetetiven Geist und führt zu neuen Bestleistungen (das haben wir tatsächlich empirisch beobachtet!). Einige essentielle Features der App sind die Folgenden:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Einfaches Erstellen und Tracken von Flunkyballrunden
+<- GIF Spiel-Ablauf -> 
+Per _Push-Up-Nachricht_ können alle Mitglieder der Liga benachrichtigt werden, wenn ein Spiel gespielt wird. Die Option _Spiel teilen per Heatmap_ lässt das Spiel auf einer Karte anzeigen. Die Integration der Google-Maps-API ermöglicht dabei eine nahtlose Navigation direkt zur Flunk-Partie.
 
-### Markdown
+### Liga-Übersicht mit eigens entwickeltem Elo-System 
+So behält jedes Mitglied des Freundeskreises einen Überblick über den Liga-Fortschritt:
+<- GIF Tabelle + Letzte Spiele ->
+Die Statistiken ermöglichen eine nähere Untersuchung des Ligageschehens.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Turnierplaner 
+Ihr seid es auch Leid ein Turnier zu planen und den Ablauf manuell zu koordinieren? Dann benutzt den Turnierplaner!
+<- GIF Turnierplaner ->
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Habt ihr auch Lust die App in eurem Freundeskreis zu etablieren?
+Dann schreibt mir gerne! Natürlich ist alles **kostenfrei**!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikeLasz/yo_flunk_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Ihr habt Lust euch an dem Projekt zu beteiligen?
+Auch dafür könnt ihr mich gerne kontaktieren. Ich freue mich über jede Unterstützung.
+Die Hilfe kann vielseitig sein:
+1. Es fehlen noch Features, die implementiert werden müssen (die App ist programmiert in Java). Der Code wird bald zusätzlich Open-Source zur Verfügung stehen. 
+2. Es können immer weitere Logos und Buttons designed werden. 
+3. Ihr habt Ideen für Verbesserung und neue Features? Immer her damit!
