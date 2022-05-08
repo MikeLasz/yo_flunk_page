@@ -23,6 +23,7 @@ Die Statistiken ermöglichen eine nähere Untersuchung des Ligageschehens.
 ### Turnierplaner 
 Ihr seid es auch Leid ein Turnier zu planen und den Ablauf manuell zu koordinieren? Dann benutzt den Turnierplaner!
 
+
 <img src="docs/assets/gifs/tournament.gif" align="center" width="200px"/>
 
 
